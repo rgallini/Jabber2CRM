@@ -1,4 +1,4 @@
-# CRM2Jabber
+# Jabber2CRM
 Simple web resource &amp; javascript integration between Dynamics CRM 2016 &amp; Cisco Jabber for screen pop
 
 Setup:
